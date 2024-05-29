@@ -80,11 +80,11 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Meetings
+      text: Es findet derzeit jeden Sonntag um 20 Uhr deutscher Zeit ein Meeting der Anonymen Mediensüchtigen auf Zoom statt. Zusätzlich zu unserem deutschsprachigen Treffen kannst Du auch unseren vollständigen [Zeitplan](https://www.mediaaddictsanonymous.org/meetings) der internationalen Treffen einsehen.
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Login Sonntag 20 Uhr Meeting
+        url: https://us06web.zoom.us/j/87859679479?pwd=Z9fhcaGUzaRsk5vbMjhH2Ts7nsb8T4.1
     design:
       card:
         # Card background color (CSS class)
