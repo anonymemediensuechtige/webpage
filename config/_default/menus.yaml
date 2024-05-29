@@ -12,8 +12,11 @@ main:
   - parent: Erste Schritte
     name: Bin ich Mediensüchtig?
     url: erste_schritte/bin-ich-mediensuechtig/
+  - parent: Erste Schritte
+    name: Leitfaden für Neue
+    url: erste_schritte/leitfaden_fuer_neue/    
   - name: Meetings
-    url: /#solutions
+    url: /#meetings
     weight: 30
   - name: Resourcen
     weight: 40

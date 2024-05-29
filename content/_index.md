@@ -8,7 +8,10 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: 
+  - block: hero
+    content:
+      title: Anonyme Mediensüchtige
+      text: Anonyme Mediensüchtige ist eine 12-Schritte-Gemeinschaft von Menschen, die sich gegenseitig bei der Genesung von der zwanghaften Nutzung aller Medien unterstützen. 
   - block: features
     id: features
     content:
@@ -64,21 +67,8 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
   - block: cta-card
+    id: meetings
     content:
       title: Meetings
       text: Es findet derzeit jeden Sonntag um 20 Uhr deutscher Zeit ein Meeting der Anonymen Mediensüchtigen auf Zoom statt. Zusätzlich zu unserem deutschsprachigen Treffen kannst Du auch unseren vollständigen [Zeitplan](https://www.mediaaddictsanonymous.org/meetings) der internationalen Treffen einsehen.
