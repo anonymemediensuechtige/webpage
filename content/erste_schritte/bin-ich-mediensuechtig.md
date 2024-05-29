@@ -2,8 +2,6 @@
 title: "Bin ich Mediensüchtig?"
 share: false
 ---
-## Symptome der Mediensucht
-
 Medienabhängigkeit ist der zwanghafte und schädliche Gebrauch von Medien, Handys und dem Internet. Wir können abhängig werden von elektronischen und sozialen Medien, Handys, Streaming von Video- oder Audioinhalten, Videospielen, Nachrichten, Musik, Pornografie, Dating-Apps und Büchern sowie von Online-Recherche und Online-Shopping werden. Diese Abhängigkeit entsteht durch die wiederholte Freisetzung von Dopamin, was im Laufe der Zeit zu Veränderungen im Gehirn führen kann, die unsere Fähigkeit beeinträchtigen, sich zu konzentrieren, Prioritäten zu setzen, unsere Stimmung zu regulieren und mit anderen in Beziehung zu treten.
 
 Wer medienabhängig ist, zeigt oft mehrere typische Symptome. Wir nutzten unsere Geräte länger als geplant, trotz Versuchen, dies zu kontrollieren oder zu reduzieren. Selbst wenn wir uns der Konsequenzen bewusst waren und aufhören wollten, konnten wir es nicht. Ohne unsere Geräte waren wir abgelenkt, ängstlich und reizbar. Wir konnten unser Offline-Leben nicht genießen und nicht präsent sein. Wir nutzten die Medien, um unsere Stimmung zu verändern und unseren Problemen zu entfliehen. Unsere Abhängigkeit gefährdete unsere Beziehungen, Bildung und Karrieren. Wir empfanden Scham und Demoralisierung über unseren Medienkonsum.
@@ -31,7 +29,7 @@ Wie hast du abgeschnitten? Wenn du bei fünf oder mehr dieser zwanghaften Verhal
 
 ** An einem Meeting teilnehmen **
 
-## Kurzfristige und langfristige Auswirkungen einer Mediensucht
+## Kurzfristige und langfristige Auswirkungen der Mediensucht
 
 Die kurzfristigen Auswirkungen der elektronischen Mediensucht umfassen unerledigte Aufgaben, vergessene Verantwortungen, Gewichtszunahme und allgemeine Trägheit.
 
@@ -39,7 +37,7 @@ Langfristig können sich physische Symptome wie Rückenschmerzen, Nackenschmerze
 
 Insgesamt sind die Kosten der Mediensucht vergleichbar mit denen jeder anderen Sucht: ein Leben in Einsamkeit, Verlust des Selbstwertgefühls, Verlust der Fähigkeit zur Selbstverwirklichung und Verlust authentischer menschlicher Verbindungen.
 
-# Eine Lösung für Mediensucht
+## Eine Lösung für Mediensucht
 
 Obwohl Mediensucht erst in den letzten Jahren Aufmerksamkeit erhalten hat, ist die Krankheit der Abhängigkeit nicht neu. Millionen von Menschen haben durch Selbsthilfegruppen nach dem Modell der Anonymen Alkoholiker (AA) langfristige Freiheit von ihrem süchtigen Verhalten gefunden. Eine kürzlich von Stanford-Forschern durchgeführte [systematische Überprüfung](https://www.nytimes.com/2020/03/11/upshot/alcoholics-anonymous-new-evidence.html) stellte fest, dass die Teilnahme an den Anonymen Alkoholikern fast immer effektiver war als andere Therapien, um kontinuierliche Abstinenz von Alkoholismus zu erreichen. Das AA-Modell wurde erfolgreich angepasst, um Menschen mit verschiedenen Süchten zu helfen, darunter Drogen, Marihuana, Nikotin, Sex, Pornografie und Essen.
 
