@@ -3,7 +3,9 @@ title: "Bin ich Mediensüchtig?"
 share: false
 ---
 
-_Anonyme Mediensüchtige ist eine kostenlose Selbsthilfegruppe für alle, die mit zwanghaftem Medienkonsum zu kämpfen haben. Wir haben ein deutschsprachiges Meeting Sonntags um 20 Uhr sowie tägliche Meetings auf Englisch._
+<p style="font-size:12px;"><i>Anonyme Mediensüchtige ist eine kostenlose Selbsthilfegruppe für alle, die mit zwanghaftem Medienkonsum zu kämpfen haben. Wir haben ein deutschsprachiges Meeting sonntags um 20 Uhr online sowie tägliche Meetings auf Englisch.</i></p>
+
+
 Medienabhängigkeit ist der zwanghafte und schädliche Gebrauch von Medien, Handys und dem Internet. Wir können abhängig werden von elektronischen und sozialen Medien, Handys, Streaming von Video- oder Audioinhalten, Videospielen, Nachrichten, Musik, Pornografie, Dating-Apps und Büchern sowie von Online-Recherche und Online-Shopping werden. Diese Abhängigkeit entsteht durch die wiederholte Freisetzung von Dopamin, was im Laufe der Zeit zu Veränderungen im Gehirn führen kann, die unsere Fähigkeit beeinträchtigen, sich zu konzentrieren, Prioritäten zu setzen, unsere Stimmung zu regulieren und mit anderen in Beziehung zu treten.
 
 Wer medienabhängig ist, zeigt oft mehrere typische Symptome. Wir nutzten unsere Geräte länger als geplant, trotz Versuchen, dies zu kontrollieren oder zu reduzieren. Selbst wenn wir uns der Konsequenzen bewusst waren und aufhören wollten, konnten wir es nicht. Ohne unsere Geräte waren wir abgelenkt, ängstlich und reizbar. Wir konnten unser Offline-Leben nicht genießen und nicht präsent sein. Wir nutzten die Medien, um unsere Stimmung zu verändern und unseren Problemen zu entfliehen. Unsere Abhängigkeit gefährdete unsere Beziehungen, Bildung und Karrieren. Wir empfanden Scham und Demoralisierung über unseren Medienkonsum.
