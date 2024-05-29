@@ -16,9 +16,7 @@ sections:
     id: overview
     content:
       title: Test
-      text: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obsessives Verhalten zurück.
-      Dann fanden wir die Lösung!
-      Als wir erkannten, dass Mediensucht ähnliche Merkmale wie Alkohol- oder Drogensucht aufweist, begannen wir, die bewährten Anweisungen der Gründer der Anonymen Alkoholiker anzuwenden. Diese Methode hat sich für uns als äußerst effektiv erwiesen. Wir heißen Dich herzlich willkommen bei den Anonymen Mediensüchtigen und freuen uns, Dich auf Deinem Weg zur Genesung begleiten zu dürfen.
+      text: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obsessives Verhalten zurück. Dann fanden wir die Lösung! Als wir erkannten, dass Mediensucht ähnliche Merkmale wie Alkohol- oder Drogensucht aufweist, begannen wir, die bewährten Anweisungen der Gründer der Anonymen Alkoholiker anzuwenden. Diese Methode hat sich für uns als äußerst effektiv erwiesen. Wir heißen Dich herzlich willkommen bei den Anonymen Mediensüchtigen und freuen uns, Dich auf Deinem Weg zur Genesung begleiten zu dürfen.
   - block: cta-card
     id: meetings
     content:
@@ -32,4 +30,20 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+  - block: markdown
+    id: overview
+    content:
+      title: Ressourcen
+      text: <body>
+                <h2>Mediensüchtige Ressourcen</h2>
+                <p>
+                    Falls du dich fragst, ob du möglicherweise eine Medienabhängigkeit hast, kannst du unsere Fragebögen zur Mediensucht durchsehen. Du kannst auch mehr über Anonyme Mediensüchtige erfahren, indem du unseren Leitfaden für Neulinge liest, unsere Werkzeuge der Genesung überprüfst oder den Genesungsgeschichten unserer Mitglieder zuhörst.
+                </p>
+                <p>
+                    Anonyme Mediensüchtige ist nicht mit irgendeiner politischen Agenda, Religion oder externen Interessen verbunden. Wir sind vollständig selbsttragend und kostenlos für alle, die unsere Hilfe benötigen. Unser einziges Ziel ist es, von zwanghaftem Medienkonsum abzusehen und anderen zu helfen, Freiheit von dieser Abhängigkeit zu finden.
+                </p>
+                <p>
+                    Nochmals herzlich willkommen! Wir hoffen, dass diese Gemeinschaft dir die Unterstützung bieten kann, die du für deine Genesung von Mediensucht benötigst. Bitte zögere nicht, uns zu kontaktieren, wenn du Fragen hast.
+                </p>
+            </body>
 ---
