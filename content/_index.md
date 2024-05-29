@@ -16,12 +16,6 @@ sections:
 - block: markdown
     content:
       text: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obsessives Verhalten zurück.
-
-Dann fanden wir die Lösung!
-
-Als wir erkannten, dass Mediensucht ähnliche Merkmale wie Alkohol- oder Drogensucht aufweist, begannen wir, die bewährten Anweisungen der Gründer der Anonymen Alkoholiker anzuwenden. Diese Methode hat sich für uns als äußerst effektiv erwiesen. Wir heißen Dich herzlich willkommen bei den Anonymen Mediensüchtigen und freuen uns, Dich auf Deinem Weg zur Genesung begleiten zu dürfen.
-
-Wir sind die deutschsprachige Gruppe der internationalen Gemeinschaft Media Addicts Anonymous. Wir unterstützen alle Formen der Genesung von Mediensucht. Das beinhaltet Abstinenz von elektronischen und sozialen Medien, Handys, Streaming von Video- oder Audioinhalten, Videospielen, Nachrichten, Musik, Pornografie, Dating-Apps, und Büchern, sowie von Online-Recherche, Online-Shopping oder anderen zwanghaften Aktivitäten im Zusammenhang mit Medien.
   - block: cta-card
     id: meetings
     content:
