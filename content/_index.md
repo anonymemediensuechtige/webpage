@@ -12,6 +12,11 @@ sections:
     content:
       title: Anonyme Mediensüchtige
       text: Anonyme Mediensüchtige ist eine 12-Schritte-Gemeinschaft von Menschen, die sich gegenseitig bei der Genesung von der zwanghaften Nutzung aller Medien unterstützen.
+  - block: markdown
+    id: overview
+    content:
+      title: Test
+      text: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obsessives Verhalten zurück.
   - block: cta-card
     id: meetings
     content:
