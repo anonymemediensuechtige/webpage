@@ -32,7 +32,7 @@ Bist du medienabhängig? Hier sind einige Fragen zu typischen Erfahrungen von Me
 
 Wie hast du abgeschnitten? Wenn du bei fünf oder mehr dieser zwanghaften Verhaltensweisen mit "ja" geantwortet hast, könntest du medienabhängig sein.
 
-** An einem Meeting teilnehmen **
+**[An einem Meeting teilnehmen](https://anonymemediensuechtige.github.io/webpage/#meetings)**
 
 ## Kurzfristige und langfristige Auswirkungen der Mediensucht
 
@@ -44,6 +44,6 @@ Insgesamt sind die Kosten der Mediensucht vergleichbar mit denen jeder anderen S
 
 ## Eine Lösung für Mediensucht
 
-Obwohl Mediensucht erst in den letzten Jahren Aufmerksamkeit erhalten hat, ist die Krankheit der Abhängigkeit nicht neu. Millionen von Menschen haben durch Selbsthilfegruppen nach dem Modell der Anonymen Alkoholiker (AA) langfristige Freiheit von ihrem süchtigen Verhalten gefunden. Eine kürzlich von Stanford-Forschern durchgeführte [systematische Überprüfung](https://www.nytimes.com/2020/03/11/upshot/alcoholics-anonymous-new-evidence.html) stellte fest, dass die Teilnahme an den Anonymen Alkoholikern fast immer effektiver war als andere Therapien, um kontinuierliche Abstinenz von Alkoholismus zu erreichen. Das AA-Modell wurde erfolgreich angepasst, um Menschen mit verschiedenen Süchten zu helfen, darunter Drogen, Marihuana, Nikotin, Sex, Pornografie und Essen.
+Obwohl Mediensucht erst in den letzten Jahren Aufmerksamkeit erhalten hat, ist die Krankheit der Abhängigkeit nicht neu. Millionen von Menschen haben durch Selbsthilfegruppen nach dem Modell der Anonymen Alkoholiker (AA) langfristige Freiheit von ihrem süchtigen Verhalten gefunden. Eine kürzlich von Stanford-Forschern durchgeführte [Meta-Studie](https://www.nytimes.com/2020/03/11/upshot/alcoholics-anonymous-new-evidence.html) stellte fest, dass die Teilnahme an den Anonymen Alkoholikern fast immer effektiver war als andere Therapien, um kontinuierliche Abstinenz von Alkoholismus zu erreichen. Das AA-Modell wurde erfolgreich angepasst, um Menschen mit verschiedenen Süchten zu helfen, darunter Drogen, Marihuana, Nikotin, Sex, Pornografie und Essen.
 
 In dieser Tradition wenden die Anonymen Mediensüchtigen das bewährte AA-Modell an, um Menschen mit Mediensucht langfristige Freiheit von ihrem selbstzerstörerischen Verhalten zu ermöglichen. Wir teilen unsere Erfahrungen, Kraft und Hoffnung durch Gruppentreffen und Einzelgespräche. Unser Programm der Genesung basiert auf den Zwölf Schritten der Anonymen Alkoholiker. Unsere Treffen sind kostenlos und anonym, und wir begrüßen jeden, der Unterstützung benötigt, um an unseren Treffen teilzunehmen.
