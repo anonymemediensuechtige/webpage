@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Verzicht auf Medien und Technologie
+role: Verzichtet auf Medien und Technologie
 
 # Organizations/Affiliations to show in About widget
 organizations:
