@@ -17,6 +17,8 @@ sections:
     content:
       title: Test
       text: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obsessives Verhalten zurück.
+      Text: Dann fanden wir die Lösung!
+      Text: Als wir erkannten, dass Mediensucht ähnliche Merkmale wie Alkohol- oder Drogensucht aufweist, begannen wir, die bewährten Anweisungen der Gründer der Anonymen Alkoholiker anzuwenden. Diese Methode hat sich für uns als äußerst effektiv erwiesen. Wir heißen Dich herzlich willkommen bei den Anonymen Mediensüchtigen und freuen uns, Dich auf Deinem Weg zur Genesung begleiten zu dürfen.
   - block: cta-card
     id: meetings
     content:
