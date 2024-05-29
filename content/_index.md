@@ -17,7 +17,7 @@ sections:
     content:
       title: Test
       text: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obsessives Verhalten zurück.
-  - block: cta-card`
+  - block: cta-card
     id: meetings
     content:
       title: Meetings
