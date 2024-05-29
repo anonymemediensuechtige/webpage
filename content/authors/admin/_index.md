@@ -40,3 +40,4 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
+Mein Hauptzweck ist es, einen Tag nach dem anderen auf süchtig machende Medien und Technologie zu verzichten und die Botschaft an Medienabhängige weiterzugeben, die noch leiden.
