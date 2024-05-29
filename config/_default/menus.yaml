@@ -20,7 +20,5 @@ main:
     weight: 30
   - name: Resourcen
     weight: 40
-    hasChildren: true
-  - parent: Resourcen
-    name: Literatur
     url: blog/
+
