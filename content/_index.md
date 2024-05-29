@@ -38,6 +38,7 @@ sections:
     id: overview
     content:
       text: <body>
+                <h4>Ressourcen</h4>  
                 <p>
                     Falls du dich fragst, ob du möglicherweise eine Medienabhängigkeit hast, kannst du unseren Fragebogen zur Mediensucht durchsehen. Du kannst auch mehr über Anonyme Mediensüchtige erfahren, indem du unseren Leitfaden für Neue liest oder unsere Werkzeuge der Genesung ausprobierst.
                 </p>

@@ -18,7 +18,7 @@ main:
   - name: Meetings
     url: /#meetings
     weight: 30
-  - name: Resourcen
+  - name: Ressourcen
     weight: 40
     url: blog/
 
