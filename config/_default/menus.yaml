@@ -10,8 +10,8 @@ main:
     weight: 20
     hasChildren: true
   - parent: Erste Schritte
-    name: Habe ich eine Sucht?
-    url: bin-ich-mediensuechtig.md
+    name: Bin ich Mediensüchtig?
+    url: erste_schritte/bin-ich-mediensuechtig/
   - name: Meetings
     url: /#solutions
     weight: 30
