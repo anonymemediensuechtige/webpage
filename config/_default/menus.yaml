@@ -12,9 +12,9 @@ main:
   - name: Solutions
     url: /#solutions
     weight: 30
-  - name: Resources
+  - name: Resourcen
     weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
+  - parent: Resourcen
+    name: Literatur
     url: blog/
