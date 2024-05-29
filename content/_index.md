@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block:
+  - block: 
   - block: features
     id: features
     content:

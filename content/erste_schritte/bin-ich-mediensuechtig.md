@@ -2,7 +2,7 @@
 title: "Bin ich Mediensüchtig?"
 share: false
 ---
-# Symptome der Mediensucht
+## Symptome der Mediensucht
 
 Medienabhängigkeit ist der zwanghafte und schädliche Gebrauch von Medien, Handys und dem Internet. Wir können abhängig werden von elektronischen und sozialen Medien, Handys, Streaming von Video- oder Audioinhalten, Videospielen, Nachrichten, Musik, Pornografie, Dating-Apps und Büchern sowie von Online-Recherche und Online-Shopping werden. Diese Abhängigkeit entsteht durch die wiederholte Freisetzung von Dopamin, was im Laufe der Zeit zu Veränderungen im Gehirn führen kann, die unsere Fähigkeit beeinträchtigen, sich zu konzentrieren, Prioritäten zu setzen, unsere Stimmung zu regulieren und mit anderen in Beziehung zu treten.
 
@@ -10,7 +10,7 @@ Wer medienabhängig ist, zeigt oft mehrere typische Symptome. Wir nutzten unsere
 
 Als wir diese beunruhigenden Erfahrungen bemerkten, erkannten wir, dass etwas nicht stimmte. Viele von uns zweifelten jedoch, ob wir wirklich abhängig waren. Für diejenigen, die noch unsicher sind, können die folgenden Fragen helfen, Anzeichen von Medienabhängigkeit besser zu erkennen.
 
-# Mediensucht Fragebogen
+## Mediensucht Fragebogen
 
 Bist du medienabhängig? Hier sind einige Fragen zu typischen Erfahrungen von Menschen, die Anzeichen einer Sucht nach elektronischen Medien zeigen:
 
@@ -29,9 +29,9 @@ Bist du medienabhängig? Hier sind einige Fragen zu typischen Erfahrungen von Me
 
 Wie hast du abgeschnitten? Wenn du bei fünf oder mehr dieser zwanghaften Verhaltensweisen mit "ja" geantwortet hast, könntest du medienabhängig sein.
 
-## An einem Meeting teilnehmen
+** An einem Meeting teilnehmen **
 
-# Kurzfristige und langfristige Auswirkungen einer Mediensucht
+## Kurzfristige und langfristige Auswirkungen einer Mediensucht
 
 Die kurzfristigen Auswirkungen der elektronischen Mediensucht umfassen unerledigte Aufgaben, vergessene Verantwortungen, Gewichtszunahme und allgemeine Trägheit.
 
